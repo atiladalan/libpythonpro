@@ -13,7 +13,8 @@ Para instalar:
 
 ```console
 python3 -m venv .venv
-source .venv/bin/activate
+source .venv/bin/activate #para plataforma linux
+.venv\Scripts\activate  #para plataforma Windows
 pip install -r requirements-dev.txt
 ```
 
