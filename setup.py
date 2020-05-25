@@ -102,7 +102,7 @@ def find_package_data(
 
 
 PACKAGE = "libpythonpro"
-NAME = PACKAGE
+NAME = "LibPythonPro_Atila"
 DESCRIPTION = "Módulo para exemplificar construção de projetos Python no curso PyTools"
 AUTHOR = "Átila Dalan"
 AUTHOR_EMAIL = "atiladalan@gmail.com"
